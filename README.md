@@ -1,6 +1,6 @@
-[![Pyxel's github stats](https://github-readme-stats.vercel.app/api?username=PyxelCodes&theme=radical)](https://github.com/PyxelCodes/Cringe#README.md)
+![Stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-[![Pyxel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxelcodes&layout=compact&theme=onedark&langs_count=15)](https://apiwrapper.vercel.app)
+![Overview](https://raw.githubusercontent.com/pyxelcodes/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 
 i can:
 
